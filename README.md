@@ -69,8 +69,8 @@ This repository is provided **for reference only**. If you are currently enrolle
 
 Hi, I’m **Pradeepta** — a data analytics enthusiast who loves translating ideas into code and insights. Let’s connect!
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/pradeepta-dey/)
-* ✉️ [Email](mailto:pradeeptadey.official@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/pradeeptadey/)
+* ✉️ [Email](mailto:pradeeptadey2601@gmail.com)
 
 ---
 
